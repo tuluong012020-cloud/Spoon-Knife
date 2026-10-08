@@ -18,6 +18,13 @@ Mở trình duyệt tại `http://127.0.0.1:8000`. Nếu máy sử dụng lệnh
 - `styles.css`: màu navy, trắng, gold; bố cục responsive và trạng thái tương tác.
 - `script.js`: menu điện thoại, hộp thoại, chọn gói và tải yêu cầu tư vấn bằng tệp văn bản UTF-8.
 
+## Nội dung bổ sung
+
+- Phần chuyên gia giới thiệu ba vai trò tư vấn. Chưa có hồ sơ cá nhân xác thực; website ghi rõ đây là mô hình mẫu.
+- Ba Case Study là tình huống giả định, không phải dự án khách hàng hoặc kết quả đã được xác nhận.
+- Bảy FAQ và nội dung chi tiết dự án dùng `details`/`summary` của HTML, hỗ trợ bàn phím và hoạt động không cần JavaScript.
+- Trên điện thoại: menu có vùng chạm tối thiểu 44px, đóng khi chạm bên ngoài; nút tư vấn cố định ở cuối màn hình có khoảng đệm để không che nội dung; cỡ chữ biểu mẫu 16px hạn chế tự phóng to trên iPhone.
+
 ## Biểu mẫu tư vấn
 
 Chưa cấu hình email, số điện thoại hay backend tiếp nhận. Biểu mẫu tạo tệp `yeu-cau-tu-van.txt` để người dùng tải về; không gửi yêu cầu và không lưu dữ liệu lên máy chủ. Cần cung cấp kênh liên hệ thực trước khi đưa website vào sử dụng thương mại. Tên thương hiệu Khởi Hướng và phạm vi các gói là nội dung mẫu có thể tùy chỉnh; biểu đồ trên banner chỉ mang tính minh họa.

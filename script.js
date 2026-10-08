@@ -12,8 +12,16 @@ menuButton.addEventListener('click', () => {
   menuButton.setAttribute('aria-label', open ? 'Đóng menu' : 'Mở menu');
 });
 navigation.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
-document.addEventListener('keydown', event => { if (event.key === 'Escape') closeMenu(); });
-window.matchMedia('(min-width: 761px)').addEventListener('change', event => { if (event.matches) closeMenu(); });
+document.addEventListener('keydown', event => {
+  if (event.key === 'Escape' && navigation.classList.contains('is-open')) {
+    closeMenu();
+    menuButton.focus();
+  }
+});
+document.addEventListener('click', event => {
+  if (!event.target.closest('.nav')) closeMenu();
+});
+window.matchMedia('(min-width: 1001px)').addEventListener('change', event => { if (event.matches) closeMenu(); });
 const dialog = document.querySelector('#contact-dialog');
 const form = document.querySelector('#contact-form');
 const status = document.querySelector('#form-status');
