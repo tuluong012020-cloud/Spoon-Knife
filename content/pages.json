@@ -1,0 +1,65 @@
+[
+  {
+    "path": "",
+    "label": "Trang chủ",
+    "title": "Khởi Hướng — Lập kế hoạch kinh doanh",
+    "description": "Tư vấn kế hoạch kinh doanh với phương pháp phân tích thị trường, mô hình và tài chính. Bốn gói dịch vụ từ 3 đến 30 triệu đồng.",
+    "file": "home.html"
+  },
+  {
+    "path": "gioi-thieu",
+    "label": "Giới thiệu",
+    "title": "Phương pháp và cách phối hợp",
+    "description": "Tìm hiểu cách Khởi Hướng phân biệt dữ liệu, kiểm tra giả định và phối hợp với khách hàng khi lập kế hoạch kinh doanh.",
+    "file": "about.html"
+  },
+  {
+    "path": "dich-vu",
+    "label": "Dịch vụ",
+    "title": "Kết nối chiến lược với tài chính",
+    "description": "Các lĩnh vực phân tích thị trường, đối thủ, mô hình kinh doanh, Marketing, Sales, vận hành, P&L và dòng tiền.",
+    "file": "services.html"
+  },
+  {
+    "path": "bang-gia",
+    "label": "Bảng giá",
+    "title": "Bốn gói. Một điểm bắt đầu phù hợp.",
+    "description": "Bảng giá chính thức Khởi Hướng: Cơ bản 3 triệu, Tiêu chuẩn 9 triệu, Chuyên sâu 18 triệu, Toàn diện 30 triệu đồng.",
+    "file": "pricing.html"
+  },
+  {
+    "path": "du-an",
+    "label": "Dự án mẫu",
+    "title": "Dự án và bài toán kinh doanh",
+    "description": "Danh mục Case Study Khởi Hướng. Chỉ công bố nội dung đã được phê duyệt, phân biệt dự báo và kết quả thực tế.",
+    "file": "projects.html"
+  },
+  {
+    "path": "du-an/cau-truc-phan-tich",
+    "label": "Cấu trúc chi tiết dự án",
+    "title": "Một dự án sẽ được trình bày như thế nào?",
+    "description": "Cấu trúc nội dung chi tiết Case Study gồm mô hình, giả định, tài chính, rủi ro và kết quả xác minh. Chưa phải hồ sơ khách hàng.",
+    "file": "project-detail.html"
+  },
+  {
+    "path": "kien-thuc",
+    "label": "Kiến thức",
+    "title": "Đọc kế hoạch để ra quyết định",
+    "description": "Các chủ đề quản trị, lập kế hoạch và tài chính doanh nghiệp. Hệ thống bài viết đang được chuẩn bị.",
+    "file": "knowledge.html"
+  },
+  {
+    "path": "cong-cu",
+    "label": "Công cụ miễn phí",
+    "title": "Hiểu các con số trước khi tính toán",
+    "description": "Các công thức doanh thu, chi phí, lợi nhuận vận hành và điểm hòa vốn. Công cụ tương tác được triển khai trong giai đoạn tiếp theo.",
+    "file": "tools.html"
+  },
+  {
+    "path": "lien-he",
+    "label": "Liên hệ",
+    "title": "Bắt đầu từ bài toán của bạn",
+    "description": "Chuẩn bị yêu cầu tư vấn Khởi Hướng, mô tả nhu cầu và chọn một trong bốn gói dịch vụ. Chưa kết nối hệ thống gửi thông tin.",
+    "file": "contact.html"
+  }
+]

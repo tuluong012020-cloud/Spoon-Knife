@@ -1,0 +1,22 @@
+[
+  {
+    "id": "co-ban",
+    "name": "Cơ bản",
+    "price": 3000000
+  },
+  {
+    "id": "tieu-chuan",
+    "name": "Tiêu chuẩn",
+    "price": 9000000
+  },
+  {
+    "id": "chuyen-sau",
+    "name": "Chuyên sâu",
+    "price": 18000000
+  },
+  {
+    "id": "toan-dien",
+    "name": "Toàn diện",
+    "price": 30000000
+  }
+]
